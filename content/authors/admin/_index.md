@@ -1,41 +1,40 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Siddharth Kumar Ananda Kumar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: Junior Mechanical Engineer
 
 # Status emoji
-status:
-  icon: ☕️
+# status: 
+  # icon: <img width="642" height="642" alt="image" src="https://github.com/user-attachments/assets/bad688d8-18a5-40f0-aafc-9fbc0df75f68" />
+
+
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: IPA Private Limited
+  url: "https://ipaindia.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Junior Mechanical Engineer at IPA Pvt. Ltd., driving precision calibration, CNC process optimization, and data-driven shop floor improvements—tripling output and increasing throughput by 15%.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Computer Aided Design
+- Design for Manufacturing
+- Finite Element Analysis
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: MSc in Mechanical Engineering
+    institution: University of Texas at Dallas
+    year: 2023
+  - course: BTech in Mechanical Engineering
+    institution: Vellore Institute of Technology
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,15 +43,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: mailto:sid42@outlook.com.
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://linkedin.com/in/sidkak
+#  - icon: instagram
+#    icon_pack: fab
+#    link: https://instagram.com/geocushen
 # Uncomment below for Github link
-#- icon: github
+# - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 
@@ -66,8 +65,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a Junior Mechanical Engineer passionate about turning complex mechanical challenges into efficient, manufacturable solutions. With hands-on experience in design, FEA, CNC process optimization, and shop floor management, I bring a strong blend of analytical thinking and practical execution. At IPA Pvt. Ltd., I led initiatives that tripled CNC output, improved calibration accuracy by 15%, and streamlined machine shop workflows using data dashboards and skill audits.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My background includes optimizing wind turbine blade profiles (boosting efficiency by 35%) and designing cost-effective systems like a 40%-cheaper oxygen concentrator and a modular heat sink with 20% better thermal performance. I hold an MS in Mechanical Engineering from UT Dallas and a BTech from VIT Vellore, and I’m proficient in SolidWorks, Fusion 360, ANSYS, and Python. My work consistently focuses on innovation, cost reduction, and cross-functional collaboration.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
