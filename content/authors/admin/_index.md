@@ -102,7 +102,7 @@ social:
     link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "sid42@outlook.com"
 ---
 
 I’m a Junior Mechanical Engineer passionate about turning complex mechanical challenges into efficient, manufacturable solutions. With hands-on experience in design, FEA, CNC process optimization, and shop floor management, I bring a strong blend of analytical thinking and practical execution. At IPA Pvt. Ltd., I led initiatives that tripled CNC output, improved calibration accuracy by 15%, and streamlined machine shop workflows using data dashboards and skill audits.
