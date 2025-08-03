@@ -25,7 +25,7 @@ experience:
   - title: Junior Mechanical Engineer
     company: IPA Private Limited
     company_url: https://ipaindia.com/
-    company_logo: ipa
+    company_logo: ipa.png
     location: 'Karnataka, IN'
     date_start: '2025-03-03'
     date_end: ''
@@ -45,7 +45,7 @@ experience:
   - title: Lead Curriculum Developer - Robotics
     company: JerseySTEM
     company_url: https://jerseystem.org/
-    company_logo: jstem
+    company_logo: jstem.png
     location: 'Texas, US'
     date_start: '2024-05-03'
     date_end: '2025-01-31'
