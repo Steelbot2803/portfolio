@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/2c90e0577461334c4cc51d7dd007071d45f188f1
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2025-07-17'
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: Intermediate Python
+    url: ''
+  - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/078fae299e79e8facef58bb1b6d29cb4133532be
+    date_end: ''
+    date_start: '2024-11-13'
+    description: ''
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: Introduction to Python
+    url: ''
+  - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/9c953e930535ee6251a2a788ecd24b185142fe3a
+    date_end: ''
+    date_start: '2025-07-10'
+    description: ''
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: 'Understanding Data Engineering'
     url: ''
 
 design:
