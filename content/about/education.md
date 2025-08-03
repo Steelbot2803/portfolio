@@ -25,7 +25,7 @@ experience:
   - title: MSc Mechanical Engineering
     company: University of Texas at Dallas
     company_url: https://www.utdallas.edu/
-    company_logo: utd.png
+    company_logo: utd
     location: 'Texas, US'
     date_start: '2022-08-22'
     date_end: '2023-12-18'
@@ -34,7 +34,7 @@ experience:
   - title: BTech Mechanical Engineering
     company: Vellore Institute of Technology
     company_url: https://vit.ac.in/
-    company_logo: vit.png
+    company_logo: vit
     location: 'Tamil Nadu, IN'
     date_start: '2018-07-13'
     date_end: '2022-05-22'
