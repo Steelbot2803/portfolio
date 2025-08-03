@@ -9,8 +9,8 @@ superuser: true
 role: Junior Mechanical Engineer
 
 # Status emoji
-# status: 
-  # icon: <img width="642" height="642" alt="image" src="https://github.com/user-attachments/assets/bad688d8-18a5-40f0-aafc-9fbc0df75f68" />
+status: 
+  icon: 🦾
 
 
 
@@ -35,6 +35,46 @@ education:
   - course: BTech in Mechanical Engineering
     institution: Vellore Institute of Technology
     year: 2022
+
+skills:
+- Mechanical Engineering
+- Mechanical Design
+- Solid Works
+- Structural Design
+- Autodesk Fusion 360
+- Ansys
+- Autodesk Inventor
+- MATLAB
+- CATIA
+- AutoCAD
+- Computer Aided Design (CAD)
+- Computer Aided Manufacturing (CAM)
+- Design For Manufacturing (DFM)
+- C++
+- Arduino IDE
+- Html/Css
+- Javascript
+- Flask
+- Firebase (Realtime DB Auth)
+- Git/GitHub
+- Progressive Web Apps (PWA)
+- IoT System Design
+- Sensor Integration
+- CNC Machining
+- G-Code Optimization
+- 3D Printing
+- Solid Works Simulation
+- Microsoft Office Suite
+- Technical Documentation
+- Product Development
+- Engineering Drawing
+- Geometric Dimensioning And
+- Tolerancing (Gd&T)
+- Rapid Prototyping
+- Cross-Functional Collaboration
+
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
