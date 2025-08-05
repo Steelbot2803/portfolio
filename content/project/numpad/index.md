@@ -1,10 +1,20 @@
 ---
 title: Custom Numpad Assembly
-summary: Aerodynamic and structural optimization of a HAWT blade for improved energy efficiency.
+summary: Designed a fully custom mechanical numpad with integrated knob and slider—complete with PCB, shell, and switch layout—purely as a passion project.
 # tags:
 #  - CV
 date: 2025-01-12
-external_link: https://grabcad.com/library/custom-numpad-1
+# external_link: https://grabcad.com/library/custom-numpad-1
 ---
 
-Carried out aerodynamic and structural optimization of a Horizontal Axis Wind Turbine (HAWT) rotor blade to enhance energy capture efficiency. Modeled baseline rotor geometries using SolidWorks and analyzed blade performance using Blade Element Momentum Theory (BEMT) implemented in MATLAB. Validated aerodynamic behavior via CFD simulations in ANSYS Fluent to visualize flow patterns, pressure zones, and lift distribution. Conducted a parametric study on blade pitch angle, chord distribution, and tip speed ratio to determine the optimal configuration for maximum power coefficient (Cp). The optimized blade design demonstrated improved aerodynamic performance and better load distribution.
+As a personal challenge and passion project, I designed a fully custom mechanical numpad that combines function, form, and fun. This wasn’t built for commercial use or commission—it was born purely out of curiosity and a desire to explore the end-to-end product development cycle in hardware. The design includes all core components of a mechanical numpad, including a custom PCB layout created in KiCad, Cherry MX-style switch support, and additional interface elements like a rotary encoder (knob) and a linear potentiometer slider for extended functionality.
+
+{{< figure src="pcb.png" title="Custom PCB with Components" >}}
+
+The physical enclosure and keycap housing were modeled in Fusion 360, with attention to tolerances, ergonomics, and aesthetics. I explored multiple design iterations to ensure proper component fit, easy assembly, and a clean, modern look. Though the project never moved beyond the prototype stage, it gave me hands-on experience in circuit design, 3D modeling for manufacturing, and the nuances of designing for both electrical and mechanical constraints.
+
+{{< figure src="housing.png" title="Custom Housing made form Anodized Aluminium" >}}
+
+This project was a sandbox for learning and experimentation—especially in integrating electronics and physical design. It reflects my enthusiasm for making things from scratch, bridging mechanical engineering with embedded hardware, and constantly pushing myself to build better.
+
+[Github](https://github.com/Steelbot2803/numpad_pcb) | [GrabCAD](https://grabcad.com/library/custom-numpad-1)
