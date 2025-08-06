@@ -27,8 +27,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
 
 design:
-  view: carousel
+  view: gallery
   full_width: true
-  background: {}
   spacing: {padding: [1rem, 1rem, 1rem, 1rem]}
 ---
