@@ -14,14 +14,14 @@ appearance:
 # SEO
 
 marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+  #seo:
+    #site_type: Person
+    #local_business_type: ''
+    #org_name: ''
+    #description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    #twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-D1WH8CP6YD'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -59,6 +59,7 @@ locale:
 # Site features
 
 features:
+  lightbox: true
   syntax_highlighter:
     enable: true
     extra_languages:
