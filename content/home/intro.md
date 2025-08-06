@@ -20,3 +20,7 @@ author: admin
 
 👋 Hi, there! I'm **Siddharth**, a junior mechanical engineer at IPA Private Limited.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+{{< button text="View Resume" url="about/" color="primary" icon="file-text" >}}
+{{< button text="GitHub" url="https://github.com/Steelbot2803" color="dark" icon="github" new_tab=true >}}
+{{< button text="Portfolio" url="projects/" color="secondary" icon="briefcase" >}}
