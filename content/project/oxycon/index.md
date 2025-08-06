@@ -3,7 +3,7 @@ title: Low-Cost Portable Oxygen Concentrator
 summary: Co-developed a peroxide-based oxygen concentrator with Arduino-controlled delivery and thermal simulations as part of a capstone project; remained at an early prototype stage due to fundamental design challenges.
 # tags:
 #  - NLP
-date: 2022-05-0
+date: 2022-05-18
 draft: false
 # external_link: ''
 ---

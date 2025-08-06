@@ -3,7 +3,7 @@ title: Comparative Study of Thermal Shields on Solar Probes
 summary: Analyzed shielding material behavior for space probes by evaluating absorptivity and emissivity to improve thermal management in high-radiation environments.
 # tags:
 #  - NLP
-date: 2025-08-06
+date: 2023-11-30
 draft: false
 # external_link: ''
 ---
