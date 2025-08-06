@@ -27,8 +27,9 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
 
 design:
-  columns: '2'
-  view: masonry
+  rows: '1'
+  columns: '1'
+  view: carousel
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
