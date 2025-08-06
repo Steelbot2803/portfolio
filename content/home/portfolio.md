@@ -27,7 +27,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
 
 design:
-  view: gallery
+  view: card
   columns: '3'
   full_width: true
 ---
