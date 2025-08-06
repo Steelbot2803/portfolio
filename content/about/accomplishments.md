@@ -29,7 +29,7 @@ item:
     description: ''
     organization: SIMULATION LAB
     organization_url: https://www.simulationlab.in/
-    title: 'Understanding Data Engineering'
+    title: 'Online Research Internship in Battery Thermal Management Systems (BTMS) using Nanofluids for EVs'
     url: ''
   - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/2c90e0577461334c4cc51d7dd007071d45f188f1
     date_end: ''
