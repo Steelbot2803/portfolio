@@ -28,6 +28,6 @@ content:
 
 design:
   view: gallery
+  columns: '3'
   full_width: true
-  spacing: {padding: [1rem, 1rem, 1rem, 1rem]}
 ---
