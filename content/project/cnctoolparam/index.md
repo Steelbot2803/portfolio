@@ -16,4 +16,4 @@ The interface includes tool and material presets, user-selectable experience mod
 
 Though the app remains in an early prototype stage, it reflects my passion for combining mechanical engineering with full-stack development, while solving real-world problems with clean, data-driven tools.
 
-[GitHub](https://github.com/Steelbot2803/cnc_tool_param_calc)
+[CNC Tool Parameter Calculator](https://cnc-tool-param-calc.onrender.com/) | [GitHub](https://github.com/Steelbot2803/cnc_tool_param_calc)

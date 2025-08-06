@@ -18,4 +18,6 @@ The physical enclosure and keycap housing were modeled in Fusion 360, with atten
 
 This project was a sandbox for learning and experimentation—especially in integrating electronics and physical design. It reflects my enthusiasm for making things from scratch, bridging mechanical engineering with embedded hardware, and constantly pushing myself to build better.
 
+{{< figure src="assembly.png" title="Assembled prototype" >}}
+
 [Github](https://github.com/Steelbot2803/numpad_pcb) | [GrabCAD](https://grabcad.com/library/custom-numpad-1)

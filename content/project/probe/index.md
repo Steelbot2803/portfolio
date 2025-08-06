@@ -1,6 +1,6 @@
 ---
-title: Water Level Automation System
-summary: Building an Arduino-based IoT water automation system with WiFi control, dry-run protection, and a Flutter app for real-time monitoring and override.
+title: Comparative Study of Thermal Shields on Solar Probes
+summary: Analyzed shielding material behavior for space probes by evaluating absorptivity and emissivity to improve thermal management in high-radiation environments.
 # tags:
 #  - NLP
 date: 2025-08-06
@@ -8,10 +8,16 @@ draft: false
 # external_link: ''
 ---
 
-Currently developing a smart water level automation system powered by the Arduino Uno R4 WiFi, designed to automate water tank filling, prevent pump failures, and provide remote access via a custom mobile app.
+As part of a research-driven simulation project, I studied the thermal radiation interaction properties of shielding materials used in space probes operating in extreme near-sun and deep-space conditions.
 
-The system uses float switches to monitor tank levels and current sensors to detect pump dry-run conditions. It intelligently controls a primary and backup pump, automatically switching or disabling them based on sensor input. Manual override buttons mounted near the Arduino allow local control without relying on network access.
+{{< figure src="shield_w_sun.png" title="The shield facing a simulated sun (represented by glass-like reflective surface)" >}}
 
-WiFi communication between the Arduino and a Flutter-based mobile app enables real-time updates on water levels and pump status, while also allowing users to send commands—like toggling pumps or switching modes—remotely. The app is designed with a responsive UI and minimal latency for seamless interaction.
+The project focused on analyzing how materials respond to the harsh radiation environment of space, specifically examining absorptivity (how much solar radiation is absorbed) and emissivity (how efficiently that absorbed energy is re-radiated as heat). Striking the right balance between these two properties is critical—materials must shield sensitive electronics from harmful radiation while also preventing thermal buildup that can damage onboard systems.
 
-Currently in the prototyping phase, this project combines embedded system design, IoT architecture, and Flutter frontend development to build a robust, user-friendly solution for household and apartment-level water automation. The system emphasizes fault tolerance, user feedback, and remote accessibility.
+{{< figure src="probe_fnr.png" title="Model of the shielding on the probe (Front and Rear respectively)" >}}
+
+Through a combination of literature analysis, material testing data, and simulation-based evaluation, I assessed candidate materials for their suitability in long-duration solar probe missions. The findings contribute to a better understanding of passive thermal management in spacecraft, supporting the development of next-generation probes capable of surviving extended exposure to solar radiation, cosmic rays, and high-energy particles.
+
+{{< figure src="thermal.png" title="Thermal simulation of the shield at an average sun temperature of 6000 deg C" >}}
+
+This project deepened my interest in space systems engineering, thermal dynamics, and materials science at the intersection of mechanical design and aerospace application.

@@ -13,7 +13,7 @@ The design and simulation process was carried out primarily in QBlade, where I a
 
 {{< figure src="bemt.png" title="BEMT Analysis" >}}
 
-Once optimal configurations were identified, I modeled the final rotor geometry in Fusion 360, focusing on manufacturability, blade taper, and structural consistency.
+Once optimal configurations were identified, I modeled the final rotor geometry in Fusion 360.
 
 {{< figure src="mesh.png" title="Blade Mesh" >}}
 
