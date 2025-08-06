@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: change this to sim lab cert
+    date_end: ''
+    date_start: '2025-07-10'
+    description: ''
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: 'Understanding Data Engineering'
+    url: ''
   - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/2c90e0577461334c4cc51d7dd007071d45f188f1
     date_end: ''
     date_start: '2025-07-17'

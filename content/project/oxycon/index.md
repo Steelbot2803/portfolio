@@ -4,7 +4,8 @@ summary: Co-developed a peroxide-based oxygen concentrator with Arduino-controll
 # tags:
 #  - NLP
 date: 2022-05-0
-external_link: http://github.com
+draft: false
+# external_link: ''
 ---
 
 As part of a three-member Bachelor’s capstone project, I co-developed a low-cost, portable oxygen concentrator intended for emergency use in rural or resource-constrained healthcare settings—without relying on bulky oxygen cylinders or power-hungry compressors.

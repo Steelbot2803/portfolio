@@ -4,6 +4,7 @@ summary: Designed a fully custom mechanical numpad with integrated knob and slid
 # tags:
 #  - CV
 date: 2025-01-12
+draft: false
 # external_link: https://grabcad.com/library/custom-numpad-1
 ---
 

@@ -109,4 +109,4 @@ I’m a Junior Mechanical Engineer passionate about turning complex mechanical c
 
 My background includes optimizing wind turbine blade profiles (boosting efficiency by 35%) and designing cost-effective systems like a 40%-cheaper oxygen concentrator and a modular heat sink with 20% better thermal performance. I hold an MS in Mechanical Engineering from UT Dallas and a BTech from VIT Vellore, and I’m proficient in SolidWorks, Fusion 360, ANSYS, and Python. My work consistently focuses on innovation, cost reduction, and cross-functional collaboration.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume as a PDF.

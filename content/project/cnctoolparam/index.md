@@ -3,7 +3,8 @@ title: CNC Tool Parameter Calculator
 summary: Built a Python-based CNC tool parameter calculator using Flask, HTML, and PWA technologies to estimate force, power, and tool life for machining operations.
 # tags:
 #  - CS
-date: 2025-06   -12
+date: 2025-06-12
+draft: false
 # external_link: ''
 ---
 
