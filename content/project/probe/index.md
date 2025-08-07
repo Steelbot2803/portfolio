@@ -18,6 +18,6 @@ The project focused on analyzing how materials respond to the harsh radiation en
 
 Through a combination of literature analysis, material testing data, and simulation-based evaluation, I assessed candidate materials for their suitability in long-duration solar probe missions. The findings contribute to a better understanding of passive thermal management in spacecraft, supporting the development of next-generation probes capable of surviving extended exposure to solar radiation, cosmic rays, and high-energy particles.
 
-{{< figure src="thermal.png" title="Thermal simulation of the shield at an average sun temperature of 6000 deg C" >}}
+{{< figure src="probe_fnr_sim.png" title="Thermal simulation of the shield at a temperature of 1341 deg C" >}}
 
 This project deepened my interest in space systems engineering, thermal dynamics, and materials science at the intersection of mechanical design and aerospace application.
