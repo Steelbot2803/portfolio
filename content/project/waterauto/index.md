@@ -19,3 +19,5 @@ WiFi communication between the Arduino and a Flutter-based mobile app enables re
 {{< figure src="code_snippet.png" title="A piece of server communication test code" >}}
 
 Currently in the prototyping phase, this project combines embedded system design, IoT architecture, and Flutter frontend development to build a robust, user-friendly solution for household and apartment-level water automation. The system emphasizes fault tolerance, user feedback, and remote accessibility.
+
+[GitHub](https://github.com/Steelbot2803/water_level_automation)
