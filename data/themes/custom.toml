@@ -19,7 +19,7 @@ name = "Starter Blog"
   # Primary
   primary = "#40916c"
   
-  link = "#1b4332"
+  link = "#00ff6aff"
   link_hover = "#74c69d"
  
   # Menu
