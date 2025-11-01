@@ -6,13 +6,11 @@ title: Siddharth Kumar Ananda Kumar
 superuser: true
 
 # Role/position
-role: Junior Mechanical Engineer
+role: Mechanical Engineer
 
 # Status emoji
 status: 
   icon: 🦾
-
-
 
 # Organizations/Affiliations
 organizations:
@@ -20,12 +18,13 @@ organizations:
   url: "https://ipaindia.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Junior Mechanical Engineer at IPA Pvt. Ltd., driving precision calibration, CNC process optimization, and data-driven shop floor improvements—tripling output and increasing throughput by 15%.
+bio: Mechanical Engineer at IPA Pvt. Ltd., driving precision calibration, CNC process optimization, and data-driven shop floor improvements—tripling output and increasing throughput by 15%.
 
 interests:
 - Computer Aided Design
 - Design for Manufacturing
 - Finite Element Analysis
+- Project Management
 
 education:
   courses:
@@ -105,7 +104,7 @@ social:
 email: "sid42@outlook.com"
 ---
 
-I’m a Junior Mechanical Engineer passionate about turning complex mechanical challenges into efficient, manufacturable solutions. With hands-on experience in design, FEA, CNC process optimization, and shop floor management, I bring a strong blend of analytical thinking and practical execution. At IPA Pvt. Ltd., I led initiatives that tripled CNC output, improved calibration accuracy by 15%, and streamlined machine shop workflows using data dashboards and skill audits.
+I’m a Mechanical Engineer passionate about turning complex mechanical challenges into efficient, manufacturable solutions. With hands-on experience in design, FEA, CNC process optimization, and shop floor management, I bring a strong blend of analytical thinking and practical execution. At IPA Pvt. Ltd., I led initiatives that tripled CNC output, improved calibration accuracy by 15%, and streamlined machine shop workflows using data dashboards and skill audits.
 
 My background includes optimizing wind turbine blade profiles (boosting efficiency by 35%) and designing cost-effective systems like a 40%-cheaper oxygen concentrator and a modular heat sink with 20% better thermal performance. I hold an MS in Mechanical Engineering from UT Dallas and a BTech from VIT Vellore, and I’m proficient in SolidWorks, Fusion 360, ANSYS, and Python. My work consistently focuses on innovation, cost reduction, and cross-functional collaboration.
 

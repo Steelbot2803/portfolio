@@ -22,25 +22,53 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Mechanical Engineer
+    company: IPA Private Limited
+    company_url: https://ipaindia.com/
+    company_logo: ipa
+    location: 'Karnataka, IN'
+    date_start: '2025-09'
+    date_end: ''
+    description: |2-
+      Key Responsibilities include:
+        
+      * Leading further development and decentralization of the Machine Shop, ensuring scalable and efficient operations.
+      * Developing and evaluating potential vendors to expand supply chain capabilities and reduce lead times.
+      * Conducting candidate interviews and contributing to building a stronger technical team.
+      * Mentoring junior engineers on CAD standards, DFM practices, and production documentation.
+
   - title: Junior Mechanical Engineer
     company: IPA Private Limited
     company_url: https://ipaindia.com/
     company_logo: ipa
     location: 'Karnataka, IN'
-    date_start: '2025-03-03'
-    date_end: ''
+    date_start: '2025-05'
+    date_end: '2025-08'
     description: |2-
-        Key Responsibilities include:
+      Key Responsibilities include:
         
-        * Developed and iterated CAD models and 2D drawings for custom industrial automation systems using SolidWorks and Autodesk Inventor.
-        * Created and maintained BOMs, GD&T-compliant technical drawings, and exploded views for fabrication and assembly.
-        * Collaborated closely with senior engineers and vendors to ensure design feasibility and manufacturability.
-        * Conducted DFM/DFA checks and design validations to reduce fabrication issues and assembly complexity.
-        * Supported project documentation, revision control, and client-specific design modifications throughout the design lifecycle.
-        * Assisted in component selection and procurement coordination based on system design requirements.
-        * Participated in design reviews and interdepartmental coordination to align mechanical systems with electrical and control layouts.
-        * Gained hands-on exposure to sheet metal, machining, and automation mechanisms used in special-purpose machines (SPMs).
-        * Took initiative in updating design standards and improving drawing practices for better clarity and consistency.
+      * Promoted directly from Intern, skipping Trainee level due to exceptional performance.
+      * Designed and implemented a data-driven dashboard in Excel capturing key metrics (production volume, machine run-time, tool life, downtime).
+      * Collaborated with CAM specialists to reengineer CNC tool paths, reducing cycle time by 50% and boosting projected monthly output from 500 to 1,500 parts.
+      * Validated new CNC programs on the shop floor, documenting setup sheets and running rates for smooth hand-off to production teams.
+      * Conducted one-on-one skill audits for 12 Machine Shop employees, mapping proficiency against job requirements.
+      * Rebalanced task assignments by pairing high-skill operators with complex setups, leading to a 15% uplift in throughput.
+      * Led a cross-functional team of 12 technicians/operators with an external consultant to revamp the Machine Shop management system.
+  
+  - title: Mechanical Engineer Intern
+    company: IPA Private Limited
+    company_url: https://ipaindia.com/
+    company_logo: ipa
+    location: 'Karnataka, IN'
+    date_start: '2025-03'
+    date_end: '2025-04'
+    description: |2-
+      Key Responsibilities include:
+        
+      * Calibrated a Universal Testing Machine (UTM) using dead weights across 10 linear loading/unloading stages to validate load cell performance.
+      * Identified fundamental load balancing discrepancies in the UTM, driving design modifications to enhance reliability.
+      * Proposed structural adjustments to address load distribution inefficiencies, improving calibration accuracy by 15%.
+      * Designed custom jigs and structures to improve testing speed by 25% and laser engraving efficiency by 50%.
 
   - title: Lead Curriculum Developer - Robotics
     company: JerseySTEM
@@ -52,12 +80,9 @@ experience:
     description: |2-
       Key Responsibilities include:
         
-      * Designed custom LEGO builds using Studio 2.0 software to support STEM curriculum, focusing on modularity, ease of assembly, and educational value.
-      * Applied real-world mechanical engineering principles to ensure structural stability and functional integrity of all designs.
-      * Optimized curriculum kits by balancing design complexity with simplicity, cutting build times by 20% while maintaining technical depth.
-      * Translated engineering concepts into age-appropriate learning modules, enabling effective instruction for middle and high school students.
-      * Collaborated with educators and volunteers to iterate lesson plans, aligning technical content with educational goals and STEM standards.
-      * Ensured all designs and documents supported remote teaching environments, with visual guides, part lists, and simulations for easy virtual delivery.
+      * Designed modular LEGO builds applying engineering principles.
+      * Reduced build time by 20% while maintaining complexity.
+
 
   - title: Mechanical Design Engineer
     company: Anemoi Technologies
@@ -67,13 +92,11 @@ experience:
     date_start: '2019-01-01'
     date_end: '2020-01-31'
     description: |2-
-        Key Responsibilities include:
+      Key Responsibilities include:
         
-        * Designed and developed a package mounting system using SolidWorks and Fusion 360, achieving a 15% reduction in material usage and a 25% improvement in Load capacity.
-        * Performed Finite Element Analysis (FEA) using ANSYS to evaluate and enhance structural integrity, resulting in a 20% increase in prototype durability.
-        * Led the implementation of modular design strategies, enabling faster prototyping and reducing design-to-build lead time by 30%.
-        * Oversaw 3D prototyping and testing, successfully demonstrating proof of concept within 6 months.
-        * Collaborated with cross-functional teams from manufacturing and procurement to integrate design feedback, streamlining assembly workflows and cutting assembly time by 12%.
+      * Designed and developed a package mounting system using SolidWorks and Fusion 360, achieving a 15% reduction in material usage and 25% increase in load capacity.
+      * Conducted FEA and structural analysis with ANSYS, improving prototype durability by 20%.
+      * Reduced design-to-prototype lead time by 30% through modular design implementation
 
 design:
   columns: '1'
