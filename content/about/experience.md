@@ -27,7 +27,7 @@ experience:
     company_url: https://ipaindia.com/
     company_logo: ipa
     location: 'Karnataka, IN'
-    date_start: '2025-09'
+    date_start: '2025-09-01'
     date_end: ''
     description: |2-
       Key Responsibilities include:
@@ -42,8 +42,8 @@ experience:
     company_url: https://ipaindia.com/
     company_logo: ipa
     location: 'Karnataka, IN'
-    date_start: '2025-05'
-    date_end: '2025-08'
+    date_start: '2025-05-01'
+    date_end: '2025-08-01'
     description: |2-
       Key Responsibilities include:
         
@@ -60,8 +60,8 @@ experience:
     company_url: https://ipaindia.com/
     company_logo: ipa
     location: 'Karnataka, IN'
-    date_start: '2025-03'
-    date_end: '2025-04'
+    date_start: '2025-03-01'
+    date_end: '2025-04-01'
     description: |2-
       Key Responsibilities include:
         
