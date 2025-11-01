@@ -2,13 +2,18 @@
 name = "Starter Blog"
 
 [light]
+  # Primary
   primary = "#1b4332"
-  link = "#1b4332"
-  link_hover = "#74c69d"
-  background = "#40916c"
+
+  # Menu
+  menu_primary = "#40916c"
+  menu_text = "#1b4332"
+  menu_text_active = "#74c69d"
+  menu_title = "#1b4332"
+
+  # Home sections
   home_section_odd = "#95d5b2"
   home_section_even = "#95d5b2"
-  menu_primary = "#1b4332"
 
 [dark]
   primary = "#40916c"
