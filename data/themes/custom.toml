@@ -19,14 +19,14 @@ name = "Starter Blog"
   # Primary
   primary = "#40916c"
   
-  link = "#00ff6aff"
-  link_hover = "#74c69d"
+  link = "#00972dff"
+  link_hover = "#008b46ff"
  
   # Menu
   menu_primary = "#40916c"
-  menu_text = "#1b4332"
+  menu_text = "#449239ff"
   menu_text_active = "#74c69d"
-  menu_title = "#1b4332"
+  menu_title = "#449239ff"
 
   # Home sections
   home_section_odd = "#95d5b2"
